@@ -1,3 +1,2 @@
 - :school: Universidad de Buenos Aires
 - :computer: Licenciatura en Ciencias de Datos 
-- :busts_in_silhouette: [Linkedin](https://www.linkedin.com/in/mart%C3%ADn-calsina-99a0b8262/)
