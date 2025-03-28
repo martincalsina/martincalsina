@@ -1,2 +1,1 @@
-- :school: Universidad de Buenos Aires
-- :computer: Licenciatura en Ciencias de Datos 
+
